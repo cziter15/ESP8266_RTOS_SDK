@@ -1,0 +1,7 @@
+{
+  "description" : "ESP8266 RTOS SDK",
+  "name": "framework-esp8266-rtos-sdk",
+  "system": "*",
+  "url": "https://github.com/cziter15/ESP8266_RTOS_SDK",
+  "version": "2.x.x"
+}
